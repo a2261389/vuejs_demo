@@ -1,4 +1,4 @@
 export default {
-    isLogin: false,
-    token: 123,
+    isLogin: true,
+    token: '123',
 }

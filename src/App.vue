@@ -15,15 +15,11 @@ import Login from "./components/common/login";
 export default {
   name: "App",
   components: {
-    HelloWorld,
-    Header,
-    Footer,
     Keep,
     Login
   },
   data: () => ({
     //
-    loading: false
   })
 };
 </script>
